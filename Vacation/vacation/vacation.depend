@@ -1,0 +1,169 @@
+# depslib dependency file v1.0
+1587916551 source:e:\std 2020\tubes lagi\vacation\vacation\isiparent2.cpp
+	"parent2Data.h"
+
+1587915295 e:\std 2020\tubes lagi\vacation\vacation\parent2data.h
+	<iostream>
+	<cstdlib>
+
+1587911288 source:e:\std 2020\tubes lagi\vacation\vacation\parent.cpp
+	"parent.h"
+	"parentData.h"
+
+1587910932 e:\std 2020\tubes lagi\vacation\vacation\parent.h
+	<iostream>
+	"parentData.h"
+
+1587919230 e:\std 2020\tubes lagi\vacation\vacation\parentdata.h
+	<cstdlib>
+	<iostream>
+
+1587917283 source:e:\std 2020\tubes lagi\vacation\vacation\relasi.cpp
+	"relasiList.h"
+	"parent2Data.h"
+	"parentData.h"
+
+1587913424 e:\std 2020\tubes lagi\vacation\vacation\relasilist.h
+	<iostream>
+	"parent2.h"
+	"parent.h"
+
+1587917254 e:\std 2020\tubes lagi\vacation\vacation\parent2.h
+	<iostream>
+	"parent2Data.h"
+
+1587917515 source:e:\std 2020\tubes lagi\vacation\vacation\parent2.cpp
+	"parent2.h"
+	"parent2Data.h"
+
+1587920470 source:e:\std 2020\tubes lagi\vacation\vacation\main.cpp
+	<iostream>
+	"parent.h"
+	"relasiList.h"
+	"caseFungsilitas.h"
+
+1587917751 e:\std 2020\tubes lagi\vacation\vacation\casefungsilitas.h
+	<cstdlib>
+	<ctime>
+	"parent.h"
+	"parent2.h"
+	"relasiList.h"
+
+1587917962 source:e:\std 2020\tubes lagi\vacation\vacation\casefungsilitas.cpp
+	"caseFungsilitas.h"
+
+1587920425 source:e:\std 2020\tubes lagi\vacation\vacation\isiparent.cpp
+	"parentData.h"
+
+1587917964 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\casefungsilitas.cpp
+	"caseFungsilitas.h"
+
+1587917752 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\casefungsilitas.h
+	<cstdlib>
+	<ctime>
+	"parent.h"
+	"parent2.h"
+	"relasiList.h"
+
+1588103720 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parent.h
+	<iostream>
+	"parentData.h"
+
+1587919232 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parentdata.h
+	<cstdlib>
+	<iostream>
+
+1587917256 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parent2.h
+	<iostream>
+	"parent2Data.h"
+
+1587915296 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parent2data.h
+	<iostream>
+	<cstdlib>
+
+1587913426 d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\relasilist.h
+	<iostream>
+	"parent2.h"
+	"parent.h"
+
+1587920426 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\isiparent.cpp
+	"parentData.h"
+
+1588214851 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\isiparent2.cpp
+	"parent2Data.h"
+
+1587911290 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parent.cpp
+	"parent.h"
+	"parentData.h"
+
+1587917516 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\parent2.cpp
+	"parent2.h"
+	"parent2Data.h"
+
+1587917284 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\relasi.cpp
+	"relasiList.h"
+	"parent2Data.h"
+	"parentData.h"
+
+1587995322 source:d:\kuliah telkomu\semester 4\std\tubes\vacation\vacation\main.cpp
+	<iostream>
+	"parent.h"
+	"relasiList.h"
+	"caseFungsilitas.h"
+
+1587917964 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\casefungsilitas.cpp
+	"caseFungsilitas.h"
+
+1587917752 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\casefungsilitas.h
+	<cstdlib>
+	<ctime>
+	"parent.h"
+	"parent2.h"
+	"relasiList.h"
+
+1588103720 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parent.h
+	<iostream>
+	"parentData.h"
+
+1587919232 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parentdata.h
+	<cstdlib>
+	<iostream>
+
+1587917256 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parent2.h
+	<iostream>
+	"parent2Data.h"
+
+1587915296 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parent2data.h
+	<iostream>
+	<cstdlib>
+
+1587913426 d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\relasilist.h
+	<iostream>
+	"parent2.h"
+	"parent.h"
+
+1587920426 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\isiparent.cpp
+	"parentData.h"
+
+1588214851 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\isiparent2.cpp
+	"parent2Data.h"
+
+1587995322 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\main.cpp
+	<iostream>
+	"parent.h"
+	"relasiList.h"
+	"caseFungsilitas.h"
+
+1587911290 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parent.cpp
+	"parent.h"
+	"parentData.h"
+
+1587917516 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\parent2.cpp
+	"parent2.h"
+	"parent2Data.h"
+
+1587917284 source:d:\kuliah telkomu\semester 4\std\tubes\fix\vacation\vacation\relasi.cpp
+	"relasiList.h"
+	"parent2Data.h"
+	"parentData.h"
+
